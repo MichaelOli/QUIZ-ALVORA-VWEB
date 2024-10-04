@@ -19,4 +19,4 @@ Uma aplicação de quiz desenvolvida em Python utilizando Streamlit. O aplicativ
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/MichaelOli/QUIZ-ALVORA-VWEB.git
