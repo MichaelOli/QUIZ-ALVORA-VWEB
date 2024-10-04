@@ -1,0 +1,4 @@
+Nome: Ribeiro, Pontuação: 3, Tempo total: 3 segundos, Respostas: [('1. CERA CARNAÚBA HYBRID OFERECE PROTEÇÃO CONTRA RAIOS UV?', 'Verdadeiro'), ('2. O PNEU PRETINHO VINTEX NÃO OFERECE PROTEÇÃO CONTRA OS RAIOS UV?', 'Falso'), ('3. QUAL PRODUTO MAIS INDICADO PARA REMOVER MANCHAS DE ÁGUA OU CALCIFICAÇÃO NOS VIDROS?', 'Limpa Vidros')]
+Nome: Gabriel, Acertos: 3, Tempo total: 3 segundos
+Nome: Gabriel, Acertos: 2, Tempo total: 26 segundos
+Nome: CLAUDEMIR, Acertos: 6, Tempo total: 43 segundos
